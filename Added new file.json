@@ -59,24 +59,6 @@
       "password": "12345",
       "confirmpassword": "12345",
       "id": 7
-    },
-    {
-      "first_name": "Sam",
-      "last_name": "sung",
-      "email": "sam@gmail.com",
-      "phone": "7545454585",
-      "password": "sam@123",
-      "confirmpassword": "sam@123",
-      "id": 8
-    },
-    {
-      "first_name": "krisshna",
-      "last_name": "sharma",
-      "email": "krishna@gmail.com",
-      "phone": "7575715248",
-      "password": "krishna",
-      "confirmpassword": "krishna",
-      "id": 9
     }
   ]
 }
