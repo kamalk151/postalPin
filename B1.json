@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "fullname": "manish vishawkarma",
+      "email": "manishv@chet.com",
+      "phone": "7905674310",
+      "password": "qwert",
+      "confirmpassword": "qwert",
+      "id": 1
+    },
+    {
+      "fullname": "rohit",
+      "email": "rohit@chetu.com",
+      "phone": "1234567890",
+      "password": "qwert",
+      "confirmpassword": "qwert",
+      "id": 2
+    },
+    {
+      "fullname": "Arti",
+      "email": "artib@chetu.com",
+      "phone": "1234567890",
+      "password": "arti@123",
+      "confirmpassword": "arti@123",
+      "id": 3
+    },
+    {
+      "first_name": "John",
+      "last_name": "singh",
+      "email": "joh@gmail.com",
+      "phone": "9090909090",
+      "password": "joh@2021",
+      "confirmpassword": "joh@2021",
+      "id": 4
+    },
+    {
+      "first_name": "harry",
+      "last_name": "singh",
+      "email": "harry@gmail.com",
+      "phone": "7575758685",
+      "password": "harry@123",
+      "confirmpassword": "harry@123",
+      "id": 5
+    },
+    {
+      "first_name": "jon",
+      "last_name": "wik",
+      "email": "jon@gmail.com",
+      "phone": "5544332211",
+      "password": "jon@123",
+      "confirmpassword": "jon@123",
+      "id": 6
+    },
+    {
+      "first_name": "john",
+      "last_name": "mikal",
+      "email": "jhonm@gmail.com",
+      "phone": "7895465187",
+      "password": "12345",
+      "confirmpassword": "12345",
+      "id": 7
+    },
+    {
+      "first_name": "Sam",
+      "last_name": "sung",
+      "email": "sam@gmail.com",
+      "phone": "7545454585",
+      "password": "sam@123",
+      "confirmpassword": "sam@123",
+      "id": 8
+    },
+    {
+      "first_name": "krisshna",
+      "last_name": "sharma",
+      "email": "krishna@gmail.com",
+      "phone": "7575715248",
+      "password": "krishna",
+      "confirmpassword": "krishna",
+      "id": 9
+    }
+  ]
+}
