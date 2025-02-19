@@ -1,0 +1,47 @@
+.search-panel{
+    display: inline-block;
+    margin-top: 100px;
+}
+.search-input{
+  line-height: 2;
+  width: 450px;
+  padding: 10px 35px 10px 15px;
+  border: none;
+  border-radius: 10px;
+  outline: none;
+}
+.search-button {
+  background: transparent;
+  border: none;
+  outline: none;
+  margin-left: -33px;
+}
+.search-button img {
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+
+/*Table*/
+.alert{
+  line-height: 0.5;
+}
+.table{
+  overflow-y: scroll;
+  max-height: 340px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
